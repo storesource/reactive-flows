@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings/
+
+#gradle
+build/
+bin/
+.gradle
+*.class
+
+#logs
+logs/
+*.plantuml
+*.log
+
+# IntelliJ Idea
+**/.idea/
